@@ -13,6 +13,7 @@ header#cabecalho img#icone {
     position: absolute;
     left: 900px;
     top: 35px;
+    height: 130px;
 }
 header#cabecalho {
     border-bottom: 1px #606060 solid;
